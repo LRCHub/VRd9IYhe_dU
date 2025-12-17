@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "まっさら",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-17T16:07:00.670994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まっさら",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_まっさら_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まっさら",
+      "artist": "吉岡 聖恵",
+      "has_synced": true,
+      "path": "select/02_まっさら_吉岡_聖恵.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "まっさら",
+      "artist": "吉岡聖恵",
+      "has_synced": true,
+      "path": "select/03_まっさら_吉岡聖恵.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まっさら",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/04_まっさら_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まっさら",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_まっさら_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "まっさら (Instrumental)",
+      "artist": "吉岡聖恵",
+      "has_synced": true,
+      "path": "select/06_まっさら_(Instrumental)_吉岡聖恵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まっさら",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_まっさら_Saucy_Dog.txt"
+    }
+  ]
+}
